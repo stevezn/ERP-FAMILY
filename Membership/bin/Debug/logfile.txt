@@ -1,0 +1,88 @@
+﻿9/28/2018 8:32:52 PM-> Error : SQL logic error
+no such table: t_apilink
+9/28/2018 8:37:13 PM-> Error : Value cannot be null.
+Parameter name: requestUriString
+9/28/2018 8:38:27 PM-> Error : The remote server returned an error: (405) Method Not Allowed.
+9/28/2018 8:39:47 PM-> Error : The remote server returned an error: (405) Method Not Allowed.
+9/28/2018 8:42:08 PM-> Error : The remote server returned an error: (405) Method Not Allowed.
+9/28/2018 9:47:32 PM-> Error : The given key was not present in the dictionary.
+9/29/2018 10:25:21 AM-> Error : SQL logic error
+no such table: t_apilink
+9/30/2018 9:03:33 PM-> Error : Unable to connect to the remote server
+10/1/2018 9:39:33 AM-> Error : Unable to connect to the remote server
+10/1/2018 9:42:21 AM-> Error : Unable to connect to the remote server
+10/1/2018 9:44:12 AM-> Error : Unable to connect to the remote server
+10/1/2018 9:57:39 AM-> Error : Unable to connect to the remote server
+10/1/2018 9:59:08 AM-> Error : Unable to connect to the remote server
+10/1/2018 9:59:41 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:00:10 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:03:13 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:03:42 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:04:10 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:04:57 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:06:09 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:33:30 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:34:09 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:38:47 AM-> Error : Unable to connect to the remote server
+10/1/2018 10:55:14 AM-> Error : Unable to connect to the remote server
+10/1/2018 2:07:56 PM-> Error : Unable to connect to the remote server
+10/1/2018 2:14:20 PM-> Error : Unable to connect to the remote server
+10/1/2018 3:47:17 PM-> Error : The given key was not present in the dictionary.
+10/1/2018 7:13:51 PM-> Error : The given key was not present in the dictionary.
+10/1/2018 7:47:19 PM-> Error : The operation has timed out
+10/1/2018 9:38:23 PM-> Error : The operation has timed out
+10/1/2018 9:45:29 PM-> Error : The given key was not present in the dictionary.
+10/3/2018 5:54:14 PM-> Error : SQL logic error
+no such table: t_apilink
+10/3/2018 5:54:25 PM-> Error Invalid URI: The URI scheme is not valid.
+10/3/2018 5:59:10 PM-> Error : SQL logic error
+no such table: t_apilink
+10/3/2018 5:59:17 PM-> Error Invalid URI: The URI scheme is not valid.
+10/4/2018 9:55:53 AM-> Error : SQL logic error
+no such table: t_apilink
+10/4/2018 9:55:53 AM-> Error : Invalid URI: The URI scheme is not valid.
+10/4/2018 9:56:26 AM-> Error : SQL logic error
+no such table: t_apilink
+10/4/2018 9:56:26 AM-> Error : Invalid URI: The URI scheme is not valid.
+10/10/2018 3:05:46 PM-> Error : Could not find file 'D:\ERP-Family\Membership\bin\Debug\cfg.txt'.
+10/16/2018 4:27:23 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:27:32 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:27:37 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:28:13 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:31:11 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:39:04 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:39:26 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:42:13 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:54:34 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:54:50 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:55:16 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:55:38 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 4:56:42 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:08:09 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:09:09 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:09:16 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:11:31 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:18:45 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:20:39 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:20:46 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:37:13 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:37:17 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 5:37:49 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 6:33:45 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 6:56:41 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 6:59:16 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 6:59:19 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 7:39:39 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 7:54:54 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 7:55:05 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 9:20:26 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 9:24:51 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/16/2018 9:35:09 PM-> Error ActiveCon-DB(crudapi)The remote server returned an error: (500) Internal Server Error.
+10/19/2018 10:10:30 AM-> Error on Membership-FingerV(StartV) : Retrieving the COM class factory for component with CLSID {93A2C786-3F83-4B73-B43E-547B85933E29} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+10/19/2018 10:20:30 AM-> Error on Membership-FingerV(StartV) : Index was outside the bounds of the array.
+10/19/2018 10:20:30 AM-> Error on Membership-FingerV(StartV) : Index was outside the bounds of the array.
+10/19/2018 10:20:31 AM-> Error on Membership-FingerV(StartV) : Index was outside the bounds of the array.
+10/20/2018 11:27:28 AM-> Error on Membership-FingerV(StartV) : Retrieving the COM class factory for component with CLSID {93A2C786-3F83-4B73-B43E-547B85933E29} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+10/30/2018 9:33:16 AM-> Error on ActiveCon-accesshandler(NextNum) : The remote server returned an error: (500) Internal Server Error.
+10/30/2018 9:39:16 AM-> Error on ActiveCon-accesshandler(NextNum) : The remote server returned an error: (500) Internal Server Error.
+10/30/2018 9:52:24 AM-> Error on ActiveCon-accesshandler(NextNum) : The remote server returned an error: (500) Internal Server Error.

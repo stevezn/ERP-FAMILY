@@ -1,0 +1,5 @@
+D:\ERP-Family\Membership\obj\x64\Debug\Membership.AddMember.resources
+D:\ERP-Family\Membership\obj\x64\Debug\Membership.Resources.resources
+D:\ERP-Family\Membership\obj\x64\Debug\Membership.vbproj.GenerateResource.cache
+D:\ERP-Family\Membership\obj\x64\Debug\Membership.dll.licenses
+D:\ERP-Family\Membership\obj\x64\Debug\Membership.vbproj.CoreCompileInputs.cache

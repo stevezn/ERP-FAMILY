@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ERP-Family\HumanResources\bin\Debug\HumanResources.dll
+C:\Users\HP\source\repos\ERP-Family\HumanResources\bin\Debug\HumanResources.pdb
+C:\Users\HP\source\repos\ERP-Family\HumanResources\bin\Debug\HumanResources.xml
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.Resources.resources
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.dll
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.xml
+C:\Users\HP\source\repos\ERP-Family\HumanResources\obj\Debug\HumanResources.pdb

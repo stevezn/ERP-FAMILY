@@ -1,0 +1,172 @@
+CREATE TABLE `t_auth` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`userid`	TEXT,
+	`roles`	TEXT,
+	`AddMember`	INTEGER,
+	`AddCard`	INTEGER,
+	`AddFinger`	INTEGER,
+	`VoidMember`	INTEGER,
+	`ViewMember`	INTEGER,
+	`ScanMember`	INTEGER
+);
+
+CREATE TABLE `t_apilink` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`sp`	TEXT UNIQUE,
+	`link`	TEXT,
+	`type`	TEXT
+);
+
+CREATE TABLE `t_attachment` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`memberid`	TEXT,
+	`attach`	TEXT,
+	`extension`	TEXT,
+	`type`	TEXT,
+	`filename`	INTEGER,
+	`isvoid`	INTEGER
+);
+
+CREATE TABLE `t_computer` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`ip`	TEXT,
+	`mac`	TEXT,
+	`hostname`	TEXT,
+	`lastactive`	TEXT,
+	`lastuser`	INTEGER,
+	`blockaccess`	INTEGER,
+	`createdate`	TEXT,
+	`remarks`	TEXT
+);
+
+CREATE TABLE `t_finger` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`memberid`	TEXT,
+	`type`	TEXT,
+	`fingerindex`	INTEGER,
+	`data`	TEXT,
+	`createdate`	DATETIME,
+	`createby`	TEXT,
+	`remarks`	TEXT,
+	`void`	INTEGER,
+	`voidby`	INTEGER
+);
+
+CREATE TABLE `t_location` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`locid`	INTEGER,
+	`name`	TEXT,
+	`createby`	INTEGER,
+	`createdate`	DATETIME,
+	`isvoid`	INTEGER,
+	`voidby`	INTEGER
+);
+
+CREATE TABLE `t_logfile` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`uid`	TEXT,
+	`tgl`	DATETIME,
+	`userid`	INTEGER,
+	`activity`	TEXT,
+	`ishide`	INTEGER
+);
+
+CREATE TABLE `t_marketing` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`salesid`	TEXT,
+	`name`	TEXT,
+	`createdate`	TEXT,
+	`createby`	INTEGER,
+	`void`	INTEGER
+);
+
+CREATE TABLE `t_members` (
+	`int`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`memberid`	TEXT,
+	`firstname`	TEXT,
+	`lastname`	TEXT,
+	`dob`	TEXT,
+	`city`	TEXT,
+	`phone`	TEXT,
+	`email`	TEXT,
+	`gender`	TEXT,
+	`idtype`	TEXT,
+	`noid`	TEXT,
+	`address1`	TEXT,
+	`address2`	TEXT,
+	`address3`	TEXT,
+	`religion`	TEXT,
+	`location`	TEXT,
+	`remarks`	TEXT,
+	`createby`	INTEGER,
+	`createdate`	TEXT,
+	`isvoid`	INTEGER,
+	`blacklist`	INTEGER
+);
+
+CREATE TABLE `t_package` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`packageid`	TEXT,
+	`name`	TEXT,
+	`price`	TEXT,
+	`months`	TEXT,
+	`expdate`	TEXT,
+	`free`	TEXT,
+	`session`	TEXT,
+	`startdate`	TEXT,
+	`enddate`	TEXT,
+	`createby`	INTEGER,
+	`createdate`	TEXT,
+	`modifiedby`	INTEGER,
+	`modifieddate`	TEXT,
+	`category`	TEXT,
+	`remarks`	TEXT,
+	`isenable`	TEXT
+);
+
+CREATE TABLE `t_packagelist` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`pckgid`	TEXT,
+	`itemname`	TEXT,
+	`memberid`	TEXT,
+	`name`	TEXT,
+	`purchasedate`	TEXT,
+	`regdate`	TEXT,
+	`exp`	TEXT,
+	`extend`	TEXT,
+	`pic`	TEXT,
+	`price`	TEXT,
+	`ptdate`	TEXT,
+	`ptexp`	TEXT,
+	`ptt`	INTEGER,
+	`ptrun`	INTEGER,
+	`pt`	TEXT,
+	`type`	TEXT,
+	`createby`	INTEGER,
+	`createdate`	TEXT,
+	`modby`	INTEGER,
+	`moddate`	TEXT,
+	`isvalid`	TEXT
+);
+
+CREATE TABLE `t_user` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`userid`	TEXT,
+	`fullname`	TEXT,
+	`email`	TEXT,
+	`pass`	TEXT,
+	`createdate`	DATETIME,
+	`createby`	INT,
+	`locations`	INT,
+	`isenable`	TEXT
+);
+
+CREATE TABLE `t_device` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`sn`	TEXT,
+	`ac`	TEXT,
+	`vc`	TEXT,
+	`type`	TEXT,
+	`usethis`	INTEGER
+);
+

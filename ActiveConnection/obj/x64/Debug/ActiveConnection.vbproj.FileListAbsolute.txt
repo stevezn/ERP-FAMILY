@@ -1,0 +1,4 @@
+D:\ERP-Family\ActiveConnection\obj\x64\Debug\ActiveConnection.ConnectionControls.resources
+D:\ERP-Family\ActiveConnection\obj\x64\Debug\ActiveConnection.Resources.resources
+D:\ERP-Family\ActiveConnection\obj\x64\Debug\ActiveConnection.vbproj.GenerateResource.cache
+D:\ERP-Family\ActiveConnection\obj\x64\Debug\ActiveConnection.vbproj.CoreCompileInputs.cache

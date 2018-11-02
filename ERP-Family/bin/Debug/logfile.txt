@@ -1,0 +1,5 @@
+﻿User : STEVEN Login with IP = 192.168.1.246 and hostname = FAMILY-Steve--->  11/1/2018 4:55:55 PM
+
+Ended Time : 11/1/2018 4:55:59 PM
+Duration = 0.0704343383333333 Minutes
+				--Log Off Application--
